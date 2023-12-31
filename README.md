@@ -1,5 +1,4 @@
 # my_OOP345_notes
-Enhanced OOP345NBB-Notes Lecture Notes
 
 * This repo is just modified notes of [OOP345NBB-Notes](https://github.com/Seneca-345305/OOP345NBB-Notes). I have added some explanation in form of comments for me where needed. All the comments of the files written with "/* */" tag are written by me.
 
