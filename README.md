@@ -4,3 +4,5 @@
 
 * You might see some URLs of the Notion pages in the comments. Which are from this notion website (Also written by me): [OOP-345](https://plaid-success-bf7.notion.site/OOP-345-7a9f95024b6b407bba84cc462457cbd4)
 you might notice some of the explanation from ChatGPT, which I found to be more explanatory or I prompted GPT to generate in a way I found them to be more helpfull.
+
+- Fardad's OOP-345 YouTube playlist: https://www.youtube.com/watch?v=3kVSMVlA_Gg&list=PLxB4x6Rkylot2586_dz2B6HmWyzsywYmo&pp=iAQB
