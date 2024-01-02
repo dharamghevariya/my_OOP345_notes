@@ -12,6 +12,10 @@
             That is given below:
 */
 
+/*
+    More about Class Templates: https://www.notion.so/Templates-2cfe7c9094fd4f9286ee4cef4eb5f129
+*/
+
 #include <iostream>
 namespace sdds {
    /*
